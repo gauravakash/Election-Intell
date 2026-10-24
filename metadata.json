@@ -1,0 +1,6 @@
+{
+  "name": "Election Intell",
+  "description": "Political RAG intelligence platform where you can upload election data, manifestos, polling reports, and voter datasets once and ask grounded questions with cited sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
